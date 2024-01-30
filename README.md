@@ -1,2 +1,2 @@
-# import-cells-netpyne2021
-Hands-on exercises for importing cells in NetPyNE
+# some Cells and Mods from NetPyNE
+Imported to be used in the project.
